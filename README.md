@@ -45,5 +45,9 @@ This model can be used for DAO governance as well
 - People can create their own prediction markets around any question and participate in them .
 
 
-**Architecture **
+**Architecture**
 ![alt text](https://user-images.githubusercontent.com/19390504/32795142-d946165e-c990-11e7-9197-9a899d54fa00.jpg)
+
+**What problems does this solve**
+    **Futarchy Model**
+    
