@@ -43,3 +43,5 @@ This model can be used for DAO governance as well
 - People get paid 6 months after the bill becomes the law , we track the result from the website given above and observe the change in GDP to determine results. (partially implemented )
 - Government can bet against people and if they win they can use the funds obtained from the market for other projects .(Hedging)
 - People can create their own prediction markets around any question and participate in them .
+**Architecture **
+https://user-images.githubusercontent.com/19390504/32795142-d946165e-c990-11e7-9197-9a899d54fa00.jpg
