@@ -16,6 +16,19 @@ Prediction Markets gives the user the ability to create value from knowledge or 
 
 Wikipedia ( [https://en.wikipedia.org/wiki/Prediction\_market](https://en.wikipedia.org/wiki/Prediction_market))
 
+
+**What does this Bot do ?**
+
+- We have integrated the &quot;Futarchy Model of Governance &quot; proposed by Robin Hanson in the form of a bot .
+- People can bet on upcoming/pending bills and gain rewards for predicting correctly .
+- If a bill affects a certain person more than a second person he/she can bet more money to show stronger vote .
+- Currently we have only considered financial bills , we have taken the bills from the official site of indian government ( [http://www.prsindia.org/billtrack/](http://www.prsindia.org/billtrack/))
+- People get paid 6 months after the bill becomes the law , we track the result from the website given above and observe the change in GDP to determine results. (partially implemented )
+- Government can bet against people and if they win they can use the funds obtained from the market for other projects .(Hedging)
+- People can create their own prediction markets around any question and participate in them .
+
+
+
 **Futarchy Governance**
 
 Knowing what exactly futarchy is essential to appreciate our effort :)
@@ -34,20 +47,18 @@ In a futarchy governance because it costs to bet only people who have adequate k
 
 This model can be used for DAO governance as well
 
-**What does this Bot do ?**
+**How is futarchy beneficial for indian governament ?**
 
-- We have integrated the &quot;Futarchy Model of Governance &quot; proposed by Robin Hanson in the form of a bot .
-- People can bet on upcoming/pending bills and gain rewards for predicting correctly .
-- If a bill affects a certain person more than a second person he/she can bet more money to show stronger vote .
-- Currently we have only considered financial bills , we have taken the bills from the official site of indian government ( [http://www.prsindia.org/billtrack/](http://www.prsindia.org/billtrack/))
-- People get paid 6 months after the bill becomes the law , we track the result from the website given above and observe the change in GDP to determine results. (partially implemented )
-- Government can bet against people and if they win they can use the funds obtained from the market for other projects .(Hedging)
-- People can create their own prediction markets around any question and participate in them .
+- Indian governament can use prediction market to take a survey which wont be affected by media or hype , which will be          true to the very core because there is money riding on it.
+- Governament can bet against people and if what governament predicted is right they can use that money for sectors which need money investments 
+- This will motivate people to follow politics , laws and problems general audience faces more intensely as they can make money off their knwoledge 
+- Governament may get an idea about what lacking in a particular bill before making it a law .
+- Since the system is decentralised the results of each prediction market can be used to jusge how well a Party perfomed while governing . A decentralised rating system for governaments ! 
+
+Lets take an example if GST was put on a prediction market and people specially buisness men would have bet against it and would have put in a huge amount . If what buisness men predicted came true they earn huge profits thus minimising the loss they suffered due to GST .
 
 
 **Architecture**
 ![alt text](https://user-images.githubusercontent.com/19390504/32795142-d946165e-c990-11e7-9197-9a899d54fa00.jpg)
 
-**What problems does this solve**
-    **Futarchy Model**
     
